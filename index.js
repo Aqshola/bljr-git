@@ -1,10 +1,8 @@
 let a="halo"
 (()=>{
     return `${a} aqshol`  
-<<<<<<< HEAD
-})
-=======
 })
 
 
->>>>>>> js
+let moomo="haloha minna"
+console.log(moomo);
